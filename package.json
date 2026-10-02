@@ -1,0 +1,14 @@
+{
+  "name": "tbg-story-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Многопользовательская писательская игра ТБГ: Классика и Тайный диверсант",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
